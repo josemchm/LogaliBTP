@@ -9,6 +9,7 @@
             <pages>
                 <Page id="page" title="{i18n>title}">
                     <content />
+                    
                 </Page>
             </pages>
         </App>
